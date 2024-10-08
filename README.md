@@ -40,7 +40,8 @@ The fee calculation is determined by the following rules:
 
 ## Running project locally:
 
-###Prerequisites
+###Prerequisites:
+
 1-PHP (>= 7.3)
 
 2-Composer
