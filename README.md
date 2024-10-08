@@ -42,10 +42,12 @@ The fee calculation is determined by the following rules:
 
 ###Prerequisites
 1-PHP (>= 7.3)
-2-Composer
-3-XAMPP or any other local server
-4-MySQL database
 
+2-Composer
+
+3-XAMPP or any other local server
+
+4-MySQL database
 
 ###Steps to Run the Project:
 1-Clone the repository
