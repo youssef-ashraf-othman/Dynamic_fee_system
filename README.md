@@ -50,6 +50,7 @@ The fee calculation is determined by the following rules:
 4-MySQL database
 
 ###Steps to Run the Project:
+
 1-Clone the repository
 
 2-Install dependencies
